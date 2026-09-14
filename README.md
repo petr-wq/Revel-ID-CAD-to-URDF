@@ -4,3 +4,5 @@ repository for URDF files from the industrial design team at REVEL
 no hands
 
 this urdf doesn't contain the hands
+
+for other model configurations, see other branches
